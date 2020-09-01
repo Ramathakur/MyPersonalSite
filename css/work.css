@@ -268,3 +268,86 @@ text-align: center;
 padding-top: 30px;
 margin: 50px 0px 20px 0px ;
 }
+
+
+@media screen and (min-width: 360px) {
+  .workExample{
+  width: 40%;
+     text-align: center;
+     font-size: 1em;
+     font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+     margin-left: 300px;
+     font-weight: 300;
+  line-height: 2;
+
+    }
+
+    .shrtparagraph {
+      width: 50%;
+      text-align: center;
+      position: relative;
+      left:  250px;
+      margin: 30px 0px 30px 0px;
+      font-weight: 300px;
+      font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+font-size: 20px;
+    }
+
+    .facebtn {
+      background-color: #2b3d51;
+    font-weight: bold;
+    width: 450px;
+    height: 40px;
+    position: relative;
+    left: 260px;
+    text-transform: capitalize;
+    padding: 10px 0px 0px 0px;
+text-align: center;
+    }
+
+    .cartoonbtn{
+     background-color: #2b3d51;
+    font-weight: bold;
+    width: 450px;
+    height: 40px;
+    position: relative;
+    left: 260px;
+    padding: 10px 0px 0px 0px;
+    text-align: center;
+
+    }
+    .fashionbtn{
+      background-color: #4299ed;
+    font-weight: bold;
+
+    width: 450px;
+    height: 40px;
+    position: relative;
+    left: 260px;
+    padding: 10px 0px 0px 0px;
+
+    }
+
+    .surveybtn {
+      background-color: #005361;
+    font-weight: bold;
+
+    width: 450px;
+    height: 40px;
+    position: relative;
+    left: 260px;
+    padding: 10px 0px 0px 0px;
+
+    }
+    .particlesbtn {
+      background-color: #5d8986;
+    font-weight: bold;
+    width: 450px;
+    height: 40px;
+    position: relative;
+    left:  260px;
+    padding: 10px 0px 0px 0px;
+
+    }
+
+}

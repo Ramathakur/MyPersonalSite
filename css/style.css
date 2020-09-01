@@ -6,7 +6,31 @@ text-align: center;
 font-family: verdana, sans-serif;
 
  }
+ .logo{
+width: 75px;
+height: 75px;
+position: absolute;
+left: 120px;
+top: 40px;
+border-radius: 50%;
+  }
 
+.navlink{
+list-style: none;
+position: absolute;
+margin: -70px 0px 0px 0px;
+font-size: 20px;
+right: 120px;
+font-weight: bold;
+
+  }
+
+
+    .navlink:hover{
+
+    color: #66BFBF;
+
+     }
  h1{
    font-size: 5.625rem;
 margin:50px auto 0 auto;
@@ -20,12 +44,14 @@ font-size: 2.5rem;
 color: #66BFBF;
 font-weight: normal;
 padding-bottom: 10px;
-
+font-weight: bold;
    }
    h3{
 
      font-family: 'Montserrat', sans-serif;
 color: #11999E;
+font-weight: bold;
+
     }
  .top-container{
  background-color: #E4F9F5;
@@ -35,12 +61,14 @@ padding-top: 100px;
   }
 
 
+
    .middle-container{
 margin: 100px  0;
     }
     .bottom-container{
 background-color: #66BFBF;
 padding: 50px 0 20px;
+margin-top: 50px;
      }
 .pro{
   text-decoration: underline;
@@ -48,8 +76,9 @@ padding: 50px 0 20px;
 
 .top-cloud{
 position: absolute;
-right:300px ;
-top:40px;
+right:250px ;
+top:180px;
+margin-bottom: 80px;
 }
 
  .bottom-cloud{
@@ -74,6 +103,7 @@ margin: 10px 20px;
   a:hover{
 
   color: #EAF6F6;
+
    }
 
    p{
@@ -117,7 +147,7 @@ margin: 100px auto;
 
 .contact-message{
   width: 40%;
-  margin: 40px auto 60px;
+  margin: 40px auto 100px;
 }
 
 .btn {
@@ -135,6 +165,7 @@ margin: 100px auto;
    font-size: 20px;
    padding: 10px 20px 10px 20px;
    text-decoration: none;
+   margin-bottom: 100px;
 
 }
 
@@ -158,4 +189,5 @@ margin: 100px auto;
 color: #EAF6F6;
 font-size: 0.75rem;
 padding: 20px 0;
+margin-top: 50px;
  }

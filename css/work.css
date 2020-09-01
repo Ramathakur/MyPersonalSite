@@ -1,0 +1,270 @@
+body{
+margin: 0px;
+text-align: center;
+ }
+
+
+ .container{
+   background-color: #E4F9F5;
+margin: 0px;
+  }
+.top-head{
+  background-color: #E4F9F5;
+margin: -30px;
+padding: 70px 0px;
+font-size: 5.625rem;
+margin:50px auto 0 auto;
+color: #66BFBF;
+font-weight: normal;
+font-family: 'Dancing Script', cursive;
+
+ }
+
+
+  .left-flag{
+    top:20px;
+    width: 122px;
+    height: 200px;
+
+           position: absolute;
+           left: 250px;
+           top:180px;
+
+   }
+
+   .right-flag{
+     width: 122px;
+     height: 200px;
+
+     position: absolute;
+     right:250px ;
+     top:180px;
+     margin-bottom: 80px;
+    }
+
+
+
+    .top-cloud1{
+    position: absolute;
+    right:250px ;
+    top:100px;
+    margin-bottom: 80px;
+    }
+
+     .bottom-cloud1{
+
+       position: absolute;
+       left: 250px;
+       bottom:100px;
+      }
+
+      .pencilIcon{
+        background-color: lightgray;
+        width: 150px;
+        height: 150px;
+        margin: 100px  0;
+        border-radius: 50%;
+
+       }
+
+
+               .shortDescription{
+
+                  font-family: 'Montserrat', sans-serif;
+                font-size: 1.5em;
+                color: #66BFBF;
+                font-weight: bold;
+                padding-bottom: 10px;
+
+                 }
+
+       .workExample{
+       width: 40%;
+          text-align: center;
+          font-size: 1em;
+          font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+          margin-left: 400px;
+          font-weight: 300;
+       line-height: 2;
+
+         }
+
+
+         .facerecognization{
+           background-color:  #7dcc93;
+           color: #fff;
+           margin-top: -10px;
+           margin-bottom: -18px;
+           height: 900px;
+}
+
+.face{
+height: 550px;
+width: 600px;
+margin-bottom: -18px;
+
+}
+
+
+.cartoonfrooiends{
+  background-color:  #f76160;
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: -18px;
+  height: 900px;
+}
+
+.cartoon{
+  height: 550px;
+  width: 600px;
+
+}
+
+
+
+.fashionstore{
+  background: #31355b;
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: -18px;
+  height: 900px;
+}
+
+.fashion{
+  height: 550px;
+  width: 600px;
+
+}
+
+
+.particles{
+  background: #679895;
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 200px;
+  height: 900px;
+}
+
+.particle{
+  height: 550px;
+  width: 600px;
+
+}
+
+
+.surveyform{
+  background: #f8c687;
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: -18px;
+  height: 900px;
+}
+
+.survey{
+  height: 550px;
+  width: 600px;
+
+
+}
+
+
+.projectname{
+  color: #fff;
+  font-weight: bolder;
+  padding-bottom: 0px;
+  font-family: 'Montserrat', sans-serif;
+margin-bottom: 14px;
+margin-top: -50px;
+}
+
+.aboutname{
+  color: #fff;
+  font-weight: bold;
+
+  padding-bottom: 0px;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0px;
+}
+
+.about{
+  margin-bottom: 150px;
+  font-size: 21px;
+}
+
+
+.facebtn {
+  background-color: #2b3d51;
+font-weight: bold;
+width: 250px;
+height: 40px;
+position: relative;
+left: 550px;
+text-transform: capitalize;
+padding: 10px 0px 0px 0px;
+
+
+}
+
+.cartoonbtn{
+ background-color: #2b3d51;
+font-weight: bold;
+width: 250px;
+height: 40px;
+position: relative;
+left: 550px;
+padding: 10px 0px 0px 0px;
+
+}
+.fashionbtn{
+  background-color: #4299ed;
+font-weight: bold;
+
+width: 250px;
+height: 40px;
+position: relative;
+left: 550px;
+padding: 10px 0px 0px 0px;
+
+}
+
+.surveybtn {
+  background-color: #005361;
+font-weight: bold;
+
+width: 250px;
+height: 40px;
+position: relative;
+left: 550px;
+padding: 10px 0px 0px 0px;
+
+}
+.particlesbtn {
+  background-color: #5d8986;
+font-weight: bold;
+width: 250px;
+height: 40px;
+position: relative;
+left:  550px;
+padding: 10px 0px 0px 0px;
+
+}
+
+.shrtparagraph {
+  width: 45%;
+  text-align: center;
+  position: relative;
+  left:  350px;
+  margin: 30px 0px 30px 0px;
+  font-weight: 300px;
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+
+}
+
+.btns{
+
+  color: #fff;
+font-weight:200px;
+text-align: center;
+padding-top: 30px;
+margin: 50px 0px 20px 0px ;
+}

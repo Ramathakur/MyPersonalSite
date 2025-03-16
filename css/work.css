@@ -160,11 +160,11 @@ margin-bottom: -18px;
   height: 900px;
 }
 
-.survey{
-  height: 550px;
-  width: 600px;
-
-
+.survey {
+    height: 400px;
+    width: 600px;
+    position: relative;
+    top: 100px;
 }
 
 

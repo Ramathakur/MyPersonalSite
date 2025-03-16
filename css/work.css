@@ -349,12 +349,12 @@ text-align: center;
     padding: 10px 0px 0px 0px;
 
     }
-.drum-image {
-    width: 100%; /* Ensures it takes full width of the container */
-    max-width: 300px; /* Limits the maximum size */
-    height: auto; /* Maintains aspect ratio */
-    display: block;
-    margin: 0 auto; /* Centers the image */
+.drumprojectname{
+  color: #fff;
+  font-weight: bolder;
+  padding-bottom: 0px;
+  font-family: 'Montserrat', sans-serif;
+margin-bottom: 14px;
 }
 
 }

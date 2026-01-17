@@ -2,13 +2,12 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
 import path from 'path'
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/MyPersonalSite/',      // for GitHub Pages
+  base: './',   // <-- Use './' for Vercel to work on any URL
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, 'src'),  // <-- Add this
+      '@': path.resolve(__dirname, 'src'), // fix @ imports
     },
   },
 })
